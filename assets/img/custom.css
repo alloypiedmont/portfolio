@@ -1,0 +1,5 @@
+/* custom.css */
+img.site-logo {
+  width: 150px;   /* Adjust the width */
+  height: auto;   /* Keep aspect ratio */
+}
