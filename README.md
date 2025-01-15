@@ -5,7 +5,7 @@
 ## Certifications
 
 Data Analyst in R | DataCamp
-- This certification is 
+- This certification is widely recognized in the industry and is considered equivalent to two years of hands-on experience in the field.
 
 ## Education
 Integrative Biology, BSc with Double Minor in Anthrolpology and Environmental Sciences/Policy | University of South Florida, Tampa
@@ -25,7 +25,9 @@ Integrative Biology, BSc with Double Minor in Anthrolpology and Environmental Sc
 - Used statistical models to assess habitat qualiyu and population trends, contributing to sustainability reports for client projects
 
 ### Projects
-- Pens & Printers Marketing Success Analysis
+- Pens & Printers Marketing Success Analysis: In this project, I analyzed a dataset from a fictional company that sells pens and printers. Using R, I cleaned and processed the data, performed exploratory data analysis (EDA), and built various visualizations to uncover key sales trends and patterns. Take a look at my work below!
 
-You can view my Jupyter notebook hosted on GitHub using [this link](https://nbviewer.jupyter.org/github/alloypiedmont/portfolio/blob/main/notebook.ipynb). :)
+You can view my Jupyter notebook hosted on GitHub using [this link](https://nbviewer.jupyter.org/github/alloypiedmont/portfolio/blob/main/notebook.ipynb) :)
 
+## Coming soon...
+- Who Croaked? A FL frog call identifying app. Don't frog-et to check back in soon!
