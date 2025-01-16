@@ -18,7 +18,7 @@ Integrative Biology, BSc with Double Minor in Anthropology and Environmental Sci
 **Research Associate @ Soilcea**
 - Conducted data analysis of gene expression from transfection experiments, utilizing excel for statistical evaluation
 - Managed and processed large datasets related to DNA purification and gene expression for research projects
-- Presented findings through data visualizations and reports to inform researcg strategies and project planning
+- Presented findings through data visualizations and reports to inform research strategies and project planning
   
 **Ecological Specialist @ Flatwoods, a Verdantis Company**
 - Collected and analyzed ecological data for species surveys, supporting the development of environmental management plans
