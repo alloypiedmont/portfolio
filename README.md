@@ -1,6 +1,6 @@
 # Research Analyst
 
-### Technical Skills: SQL, R Studio, Tablaeu, Excel
+### Technical Skills: SQL, R Studio, Tablaeu, Excel, Field Surveys, Data Collection
 
 ## Certifications
 
