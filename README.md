@@ -8,7 +8,7 @@ Data Analyst in R | DataCamp
 - This certification is widely recognized in the industry and is considered equivalent to two years of hands-on experience in the field.
 
 ## Education
-Integrative Biology, BSc with Double Minor in Anthrolpology and Environmental Sciences/Policy | University of South Florida, Tampa
+Integrative Biology, BSc with Double Minor in Anthropology and Environmental Sciences/Policy | University of South Florida, Tampa
 
 ## Work Experience
 **Biological Sciences Technician @ U.S. Forest Service**
