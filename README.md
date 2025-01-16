@@ -25,16 +25,16 @@ Integrative Biology, BSc with Double Minor in Anthropology and Environmental Sci
 - Used statistical models to assess habitat qualiyu and population trends, contributing to sustainability reports for client projects
 
 **Intern @ Wildlands Conservation Nonprofit**
--Unpaid internship for a nonprofit organization that directly deals with land management, conservation, education, and directed research
--Online data management and in-field data sampling for sand skinks
+- Unpaid internship for a nonprofit organization that directly deals with land management, conservation, education, and directed research
+- Online data management and in-field data sampling for sand skinks
 
 **Research Technician @ University of South Florida**
--Worked in a variety of different research environments; from fieldwork data collection to assisting in conducting cancer research in a university setting overseen by a doctor to independent botanical research under a graduate student
--Constructed procedures from start to finish starting from choosing specific primers to undergoing analysis of cellular expression to running rt-pcr using the cDNA synthesized
+- Worked in a variety of different research environments; from fieldwork data collection to assisting in conducting cancer research in a university setting overseen by a doctor to independent botanical research under a graduate student
+- Constructed procedures from start to finish starting from choosing specific primers to undergoing analysis of cellular expression to running rt-pcr using the cDNA synthesized
 
 **Pharmacy Technician @ CVS Pharmacy**
--As a certified pharmacy technician, I supported pharmacists by handling prescriptions, maintaining accurate drug inventory through cycle counts, and resolving insurance, refill, or prescriber issues
--During the pandemic, I received immunization training and administered COVID-19 vaccines to adults and children, ensuring safe and effective patient care
+- As a certified pharmacy technician, I supported pharmacists by handling prescriptions, maintaining accurate drug inventory through cycle counts, and resolving insurance, refill, or prescriber issues
+- During the pandemic, I received immunization training and administered COVID-19 vaccines to adults and children, ensuring safe and effective patient care
 
 ## Projects
 - Pens & Printers Marketing Success Analysis: In this project, I analyzed a dataset from a fictional company that sells pens and printers. Using R, I cleaned and processed the data, performed exploratory data analysis (EDA), and built various visualizations to uncover key sales trends and patterns. Take a look at my work below!
