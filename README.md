@@ -45,7 +45,7 @@ You can view my Jupyter notebook hosted on GitHub using [this link](https://nbvi
 - Who Croaked? A FL frog call identifying app. Don't frog-et to check back in soon!
 
 ## Hello and Welcome!
-It can be challenging to get to know someone through a resume or portfolio alone, so I'd like to take a moment to introduce myself. I'm a recent college graduate exploring where I fit best in the professional world. With a variety of experiences under my belt, I’m eager to find a long-term role that aligns with my passions.
+It can be challenging to get to know someone through a resume or portfolio alone, so I'd like to take a moment to introduce myself. I'm a college graduate with a diverse 5-year career exploring where I fit best in the professional world. With a variety of experiences under my belt, I’m eager to find a long-term role that aligns with my passions.
 
 I’m a curious and hardworking individual with a deep interest in public health and wildlife biology. One of my favorite books is "The Hot Zone" by Richard Preston. While it’s a dramatized account of the 1981 Ebola outbreak and has stirred debate within epidemiology circles, it sparked my fascination with the exciting and impactful field of public health.
 
